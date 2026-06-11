@@ -19,4 +19,4 @@ The project is governed by a Technical Steering Committee (TSC). See [GOVERNANCE
 
 - 💬 [Discussions & Issues](https://github.com/Agent-Card/ai-catalog/issues)
 - 📋 [Contributing](https://github.com/Agent-Card/ai-catalog/blob/main/CONTRIBUTING.md)
-- 📋 [Meetings] (https://docs.google.com/document/d/1RriqwfC6fcL5NbpGrFFHXfvonQiIsXrutGuwpnBlAwM)
+- 📋 [Meetings](https://docs.google.com/document/d/1RriqwfC6fcL5NbpGrFFHXfvonQiIsXrutGuwpnBlAwM)
