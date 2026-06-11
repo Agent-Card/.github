@@ -1,6 +1,6 @@
-# Agent-Card
+# AI Catalog
 
-**Agent-Card** is an open-source initiative to enable discovery of AI services and related artifacts through a standardized AI Catalog specification.
+**AI Catalog** is an open-source initiative under the [Linux Foundation](https://www.linuxfoundation.org/) to enable discovery of AI services and related artifacts through a standardized AI Catalog specification.
 
 ## Projects
 
