@@ -5,7 +5,7 @@
 ## Projects
 
 - [**ai-catalog**](https://github.com/Agent-Card/ai-catalog) — The AI Catalog specification sources, tooling, and documentation.
-- 🌐 [**Specification**](https://agent-card.github.io/ai-catalog/)  - Official published specification.
+- [**Specification**](https://agent-card.github.io/ai-catalog/)  - Official published specification.
 - [**Kanban Board**](https://github.com/orgs/Agent-Card/projects/1)
 
 ## Governance
