@@ -11,6 +11,10 @@
 
 The project is governed by a Technical Steering Committee (TSC). See [GOVERNANCE.md](https://github.com/Agent-Card/ai-catalog/blob/main/GOVERNANCE.md) for details.
 
+## Learn More
+
+- 📝 [The Missing Layer in AI Interoperability: Discovery](https://aaif.io/blog/the-missing-layer-in-ai-interoperability-discovery/) — Blog post by the Agentic AI Foundation
+
 ## Get Involved
 
 - 💬 [Discussions & Issues](https://github.com/Agent-Card/ai-catalog/issues)
